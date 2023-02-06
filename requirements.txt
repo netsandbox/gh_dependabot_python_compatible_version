@@ -1,1 +1,1 @@
-example-pkg-cloos~=2.0.0
+example-pkg-cloos~=3.0.1
